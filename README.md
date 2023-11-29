@@ -393,4 +393,3 @@ Feel free to contribute by adding new commands or improving existing ones. See [
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
