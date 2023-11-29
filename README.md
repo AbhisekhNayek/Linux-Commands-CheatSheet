@@ -397,5 +397,3 @@ Feel free to contribute by adding new commands or improving existing ones. See [
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to customize the commands and descriptions further based on your preferences and the needs of your audience. This template includes additional commands for file and directory management
